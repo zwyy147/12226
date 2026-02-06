@@ -3,17 +3,17 @@
   "short_name": "梧桐",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://image.uglycat.cc/fgn9mb.png",
+      "src": "https://i.postimg.cc/cHmGNc2h/Camera-1040g3k831rhcosao7u7g5nvjqsk093v27umao7o.jpg",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "https://image.uglycat.cc/fgn9mb.png",
+      "src": "https://i.postimg.cc/cHmGNc2h/Camera-1040g3k831rhcosao7u7g5nvjqsk093v27umao7o.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
