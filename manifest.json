@@ -1,0 +1,21 @@
+{
+  "name": "梧桐文字提取器",
+  "short_name": "梧桐",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://image.uglycat.cc/fgn9mb.png",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://image.uglycat.cc/fgn9mb.png",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
